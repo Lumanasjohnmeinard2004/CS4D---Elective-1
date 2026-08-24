@@ -1,8 +1,12 @@
+
 # Adaptive E-Learning App
 
-**Name:** John Meinard P. Lumanas
-**Section:** CS4D
-**Date:** August 24, 2026
+| Student Information | Details |
+|---|---|
+| **Name** | John Meinard P. Lumanas |
+| **Section** | CS4D |
+| **Date** | August 24, 2026 |
+| **Subject** | Elective 1 |
 
 ## Project Description
 
